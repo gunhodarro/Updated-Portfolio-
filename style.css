@@ -142,3 +142,81 @@ header{
       font-weight: bolder;
   }
  
+  @media screen and (max-width: 980px) {
+    .jumbotron{
+      width: auto;
+     }
+    h5{
+      width: auto;
+    }
+    img{
+      width: auto;
+    }
+    p{
+      width: auto;
+    }
+    form{
+      width: auto;
+    }
+    }
+    @media only screen and (max-width: 768px) {
+      .jumbotron{
+        width: 768px;
+       }
+      h5{
+        width: 700px;
+      }
+      img{
+        width: auto;
+      }
+      p{
+        width: 740px;
+      }
+      form{
+        width: 600px;
+      }
+      nav{
+        width: 1auto;
+      }
+      input{
+        width: 100px;
+      }
+      footer{
+        width: auto;
+        position: fixed;
+        
+        
+      }
+      
+    }
+      @media screen and (max-width: 640px) {
+        .jumbotron{
+          width: auto;
+         }
+        h5{
+          width: auto;
+        }
+        img{
+          width: auto;
+        }
+        p{
+          width: auto;
+        }
+        form{
+          width: auto;
+      
+          
+        }
+        nav{
+          width: 100%;
+        }
+        .proj{ 
+          width: auto;
+        }
+        footer {
+          width: 450%;
+          position: fixed;
+          bottom: 0;
+          margin-bottom: 0;
+       }
+        }
