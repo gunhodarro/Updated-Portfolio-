@@ -73,9 +73,7 @@ footer{
 }
 
 nav{
-    border-bottom-style: solid;
-    border-color: #cccccc;
-    background: #fff;
+    
     position: fixed;
     top: 0;
     width: 100%;
@@ -88,7 +86,7 @@ header{
 .card{
   
     width: 50%;
-    margin-left: 100px;
+    margin-left: 25%;
     margin-top: 80px;
     background-color: darkgreen;
    }
@@ -119,14 +117,17 @@ header{
   .title {
     position: inherit;
     text-align: center;
-    width: 205px;
+    width: 270px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: black;
     font-weight: bolder;
-    padding: 10px;
     margin: 20px;
     bottom: 90px;
+    background-color: #343a40;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
    
   }
 .jumbotron{
@@ -134,4 +135,10 @@ header{
     background-color: darkgreen;
 }
 
-  
+  button{
+      margin-left: 70%;
+      color: black;
+      background-color:#343a40;
+      font-weight: bolder;
+  }
+ 
