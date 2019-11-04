@@ -155,8 +155,11 @@ header{
     p{
       width: auto;
     }
-    form{
+    .list-group{
       width: auto;
+    }
+    .title{
+        width:auto;
     }
     }
     @media only screen and (max-width: 768px) {
@@ -172,7 +175,7 @@ header{
       p{
         width: 740px;
       }
-      form{
+      .list-group{
         width: 600px;
       }
       nav{
@@ -184,9 +187,10 @@ header{
       footer{
         width: auto;
         position: fixed;
-        
-        
-      }
+        }
+    .title{
+            width:auto;
+        }
       
     }
       @media screen and (max-width: 640px) {
@@ -202,7 +206,7 @@ header{
         p{
           width: auto;
         }
-        form{
+        .list-group{
           width: auto;
       
           
@@ -219,4 +223,7 @@ header{
           bottom: 0;
           margin-bottom: 0;
        }
+       .title{
+        width:auto;
+    }
         }
