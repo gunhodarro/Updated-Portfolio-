@@ -1,1 +1,1 @@
-# Updated-Portfolio-
+In this Updated portfolio, you will find a small bio about myself. In the portfolio section, you will find several clickable links to a few projects and links to my github and linked in profiles. Lastley on my contact page you can find my phone number and email to be able to reach me at.
