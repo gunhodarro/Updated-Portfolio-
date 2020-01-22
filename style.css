@@ -141,6 +141,8 @@ header{
       background-color:#343a40;
       font-weight: bolder;
   }
+
+  
  
   @media screen and (max-width: 980px) {
     .jumbotron{
